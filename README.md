@@ -3,25 +3,25 @@
 ## Lesson-01
 
 - Review-01  
-  1. 句子生成 (Data driven)
+  1. sentence generator (Data driven)
   2. Language model
 - Assignment-01
-  1. 设计句子生成器
-  2. n-gram 语言模型 
+  1. design sentences generator
+  2. n-gram language model
   3. Pattern Match (optional)
 - Assignment-01-optional
-  1. Pattern Match  & Segment Match (En)
-  2. 改写成中文对话程序
+  1. Pattern Match  & Segment Match (EN)
+  2. chat-robort (CN) -> unfinished
 
 
 
 ## Lesson-02
 
 - Review-02
-  1. 交通线路选择问题(BFS,DFS)
-  2. 波士顿房价(sklearn, linear regression)
+  1. Transportation route choice (BFS,DFS)
+  2. Boston House Prices (sklearn, linear regression)
 - Assignment-02
-  1. 寻找地铁线路
+  1. The best subway route in Beijing
 
 
 
@@ -29,23 +29,35 @@
 
 - Review-03
 
-  1. 线性回归模型(sklearn)
-  2. KNN Model 解决线性回归问题
-  3. Decision Tree (Entropy,Gini,选择BestFeature)
-  4. K-Means的简单例子
+  1. Linear Regression problem using sklearn.linear_model (random data)
+  2. Linear Regression problem using KNN Model 
+  3. Decision Tree (Loss - Entropy&Gini, choosing BestFeature)
+  4. A simple example using K-Means
 
 - Assignment-03
 
-  1. Decision Tree (搭建树，输入样本能直接输出决策)
-  2. 线性回归模型(改变loss)
+  1. Decision Tree (input:data, output:decision)
+  2. Linear Regression( change loss function)
 
 
 
-
-# Lesson 04
+##  Lesson-04
 
 - Review-04
-  1. 从底层一步步实现神经网络
-  2. 通过神经网络实现波士顿房价预测
+  1. build a FCN from scratch
+  2. predict Boston House Prices (i.from scratch ii.keras)
 - Assignment-04
-  1. 二分类数字识别
+  1. binary classification of digits
+  2. Challenge: multiclass classification of digits
+
+
+
+## Lesson-06
+
+- Review-06
+  1. Basics of Tensorflow
+  2. CNN based on MNIST(i.keras, ii.Tensorflow)
+
+- Assignment-06
+  1. CNN based on Cifar-10
+  2. build a CNN from scratch (Conv layer, Pooling layer)
