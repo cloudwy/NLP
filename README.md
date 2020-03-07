@@ -61,3 +61,14 @@
 - Assignment-06
   1. CNN based on Cifar-10
   2. build a CNN from scratch (Conv layer, Pooling layer)
+
+
+
+## Lesson-07
+
+- Assignment-07
+  1. Generating names with a character-level RNN (see Pytorch tutorials)
+  2. Add more layers in one RNN 
+  3. Use nn.LSTM and nn.GRU
+  4. Connect multiple RNNs to form a more complex RNN
+
