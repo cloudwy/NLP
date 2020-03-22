@@ -70,5 +70,24 @@
   1. Generating names with a character-level RNN (see Pytorch tutorials)
   2. Add more layers in one RNN 
   3. Use nn.LSTM and nn.GRU
-  4. Connect multiple RNNs to form a more complex RNN
+  4. Connect multiple RNNs to form a more complex RNN  
+
+
+
+## Lesson-08
+
+- Review-08 -> unfinished
+  1. Transformer 
+
+- Assignment-08
+  1. Only questions, no code exercise 
+
+
+
+## Lesson-09
+
+- Assignment-09
+  1. Kaggle: What Causes Heart Disease? Explaining the Model  
+
+
 
