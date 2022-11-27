@@ -116,7 +116,7 @@
 - Assignment-11
   1. Cut Rod Problem
   2. Edit distance
-  3. Pinyin Auto Correction Problem、
+  3. Pinyin Auto Correction Problem
 
 
 
